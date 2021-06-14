@@ -4,8 +4,7 @@
 - 💞️ Avid reader, I have a lot to achieve nothing to lose
 - [x] Currently reading Homo Sapien
 - [ ] Next in Line Vex King
-- [x] this is a complete item
-
+- Currently uncertain 
 - End of Story
 
 <!---

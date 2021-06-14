@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @nishant
-- 👀 I’m interested in learning how to code , I am 25 and I have developed a liking for data but I don't know where to start from.
-- 🌱 I’m currently learning Data Anlysis.
-- 💞️ I’m looking to collaborate with someone who can learn with me or someone who can teach me. 
+- 👀 Let me tell you something funny - The world will end soon.
+- 🌱 I believe one can only grow by learning.
+- 💞️ Avid reader, I have a lot to achieve but don't know where to start from .
+- End of Story
 
 <!---
 nishantls/nishantls is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

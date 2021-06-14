@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @nishant
-- 👀 Let me tell you something funny - The world will end soon.
-- 🌱 I believe one can only grow by learning.
-- 💞️ Avid reader, I have a lot to achieve but don't know where to start from .
+- 👀 Let me tell you something funny - I am no Clown ! 
+- 🌱 I believe one can only grow by learning.(Open Source)
+- 💞️ Avid reader, I have a lot to achieve nothing to lose
 - End of Story
 
 <!---

@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @nishant
-- 👀 Let me tell you something funny - I am no Clown ! 
 - 🌱 I believe one can only grow by learning.(Open Source)
 - 💞️ Avid reader, I have a lot to achieve nothing to lose
 - [x] Currently reading Homo Sapien
